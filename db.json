@@ -1,0 +1,10 @@
+{
+  "events": [
+    {
+      "id": "166d",
+      "name": "Computer Webinar",
+      "description": "This is an upcoming computer science webinar. It will involve components of react js.",
+      "date": "2024-07-25"
+    }
+  ]
+}
